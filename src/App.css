@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 3px solid black;
+  width: 50%;
+}
+.input-container {
+  margin: 2%;
+}
+.profil {
+  border: 1px solid black;
+  width: 50%;
+}
+
+input {
+  width: 20%;
+}
